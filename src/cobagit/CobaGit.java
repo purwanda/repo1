@@ -16,6 +16,7 @@ public class CobaGit {
      */
     public static void main(String[] args) {
         show();
+        welcome.showwelcome();
         showselesai();
     }
     

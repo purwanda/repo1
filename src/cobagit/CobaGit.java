@@ -16,10 +16,15 @@ public class CobaGit {
      */
     public static void main(String[] args) {
         show();
+        showselesai();
     }
     
     public static void show(){
         System.out.println("coba git 1");
+    }
+    
+        public static void showselesai(){
+        System.out.println("sudah selesai");
     }
     
 }
